@@ -19,7 +19,7 @@ Before we begin, for those who have never approched networking before, I strongl
 
 Moving forward, you'll need a platform that suits you to create your network diagram. Personally, I use <a href="https://isoflow.io/">Isoflow</a>, which I find clear and user-friendly.
 </p>
-<h3>Start planning</h3>
+<h3>Start planning 📊</h3>
 <p>
 <b>The first step is always to understand the operational and cybersecurity needs of the given organization.</b>
 </br>
@@ -28,9 +28,11 @@ I personnaly recommend listing your initial thoughts as a foundation before star
 </br>
 <b>Here are some challenges I myself identified at my beginning of this project :</b>
 <ul>
-  <li>Separate the employees sector to minimize access to sensitive information (personal client information registry, areas containing available bank funds, etc.).</li>
-  <li>Consider the possibility that employees may telecommute using public or home networks, which are typically less secure and more vulnerable compared to the corporate network.</li>
-  <li>Given that this is an online bank, optimizing user experience security and continuously monitoring for any attempts to breach the network.</li>
+<li>Given that it is an online bank, it is crucial to separate the LAN from the WAN through a DMZ to minimize unauthorized access to internal sensitive data while optimizing a secure user experience.</li>
+<li>Acknowledging that employees may work remotely from public or home networks, which are typically less secure and more vulnerable than the company's network: implementing stringent telework policies that include the use of VPNs and device segmentation to separate personal and professional operations.
+
+</li>
+
   <li>Protect banking transaction flows on the network.</li>
 </ul>
 </p>
