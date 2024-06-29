@@ -15,7 +15,7 @@ Throughout this guide, we will be focusing on the theoretical aspect. Feel free 
 </br>
 <h3>Prerequisites</h3>
 <p>
-Before we begin, for those who have never worked with networking, I strongly recommend familiarizing yourself with the basics at least first. You can check out the networking section of the <a href="https://www.w3schools.com/cybersecurity/cybersecurity_networking.php">W3Schools Cybersecurity Networking</a>, which is informative but concise enough.
+Before we begin, for those who have never dealed with networking, I strongly recommend familiarizing yourself with the basics at least first. You can check out the networking section of the <a href="https://www.w3schools.com/cybersecurity/cybersecurity_networking.php">W3Schools Cybersecurity Networking</a>, which is informative but concise enough.
 
 Moving forward, you'll need a platform that suits you to create your network diagram. Personally, I use <a href="https://isoflow.io/">Isoflow</a>, which I find clear and user-friendly.
 </p>
