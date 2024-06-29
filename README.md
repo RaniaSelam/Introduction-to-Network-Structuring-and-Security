@@ -1,7 +1,7 @@
 <h1 align="center">Introduction-to-Network-Structuring-and-Security</h1>
 
 <p>
-In the context of our actual project, we will create and structure a complete network for an imaginary organization. For this case, we will base ourselves on an online bank named "Bankurity." Then, we will secure it in the most efficient and practical way possible.
+For this project, we will create and structure a complete network for an imaginary organization. For this case, we will base ourselves on an online bank named "Bankurity." Then, we will secure it in the most efficient and practical way possible.
 
 In the context of our actual project, once the theoretical plan is ready, we will replicate it using virtual machines (VMs), simplifying if necessary, before presenting it.
 
