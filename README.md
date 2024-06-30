@@ -106,7 +106,7 @@ You can then assign and organize your IP addressing on an <b>IP addressing table
 </br>It generally is represented on a <b>flow matrice</b> defined by <b>the source</b> of the traffic, its <b>destination</b> and <b>type of communication</b> as follows :
 </br></br><img src="https://github.com/RaniaSelam/Introduction-to-Network-Structuring-and-Security/assets/173706533/6722da0f-06ee-4326-9253-31ec76a7bc77" width="295"  alt="flow_matrice_p1">
 <img src="https://github.com/RaniaSelam/Introduction-to-Network-Structuring-and-Security/assets/173706533/a658ad23-96d8-47a3-aca5-cb53d2979949" width="300" alt="flow_matrice_p1">
-<img src="https://github.com/RaniaSelam/Introduction-to-Network-Structuring-and-Security/assets/173706533/b8bdf020-b2b2-4ced-94bd-6352748ffe12" width="328" margin-top="0" alt="flow_matrice_p1">
+<img src="https://github.com/RaniaSelam/Introduction-to-Network-Structuring-and-Security/assets/173706533/e41a2351-3832-442b-b3b1-826f60e261b9" width="328" margin-top="0" alt="flow_matrice_p1">
 </p>
 <h3>To go further 🚀</h3>
 <p>
