@@ -115,6 +115,9 @@ If you ever decide to apply your network to VMs, you will most likely need to si
 </br><div align="center">
 <img src="https://github.com/RaniaSelam/Introduction-to-Network-Structuring-and-Security/assets/173706533/cdc2b245-f871-4b58-94dd-309a170cc1d7" width="700" alt="simplified_diagram">
 </div>
-<br> Also, if you do go through with it, it would be interesting to conduct penetration tests on your network to assess its security.
-<h2>Good luck !✨</h2>
+<br> Also, if you do go through with it, which I'm sure you can, it would be interesting to conduct penetration tests on your network to assess its security.
+Just saying 🤷‍♀️.
+</br>
 </p>
+<h2>Good luck !✨</h2>
+
