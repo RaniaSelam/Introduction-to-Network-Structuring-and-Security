@@ -111,7 +111,7 @@ You can then assign and organize your IP addressing on an <b>IP addressing table
 <h3>To go further 🚀</h3>
 <p>
 If you ever decide to apply your network to VMs, you will most likely need to simplify it and reduce unnecessary servers to ensure everything runs smoothly.
-</br>Here's an idea for a simplified network diagram based on the network we've seen in this guide if it could ever help you :
+</br>Here's an idea for a simplified network diagram based on the network we've seen in this guide :
 </br><div align="center">
 <img src="https://github.com/RaniaSelam/Introduction-to-Network-Structuring-and-Security/assets/173706533/cdc2b245-f871-4b58-94dd-309a170cc1d7" width="700" alt="simplified_diagram">
 </div>
